@@ -1,0 +1,217 @@
+head body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+.hide{
+    color: white;
+}
+nav ul li{
+    float: left;
+    padding: 10px;
+    text-decoration: none;
+    list-style: none;
+    font-size: 15px;
+}
+nav{
+    height: 50px;
+    width: 100%;
+}
+nav img{
+    height: 35px;
+}
+nav button{
+    border-radius: 10px;
+    border-width: 1px;
+    padding: 10px 20px 10px 20px;
+    font-size: 10px;
+    border-color: blue;
+    background-color: white;
+}
+.makeblue{
+    color: blue;
+}
+.part1 li{
+    list-style: none;
+}
+.part1 ul{
+    float: left;
+}
+.part1{
+    width: 50%;
+}
+.part1 button{
+    border-radius: 5px;
+    padding: 10px 30px 10px 30px;
+    margin-top: 10px;
+    background-color: rgb(105, 105, 207);
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.part1img{
+    padding-left: 100px;
+}
+.services{ 
+    margin: auto;
+    width: 50%;
+}
+.services h3{ 
+    margin: auto;
+    width: 50%;
+}
+.square{
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+}
+.square p{
+    margin-top: 0;
+}
+.square h5{
+    color: blue;
+}
+.rounded1{
+    margin-top: 10px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: blue;
+    padding: 10px;
+}
+.dotsquare1{
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    margin: auto;
+    border-radius: 50%;
+}
+.rounded2{
+    margin-top: 10px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: orangered;
+    padding: 10px;
+}
+.dotsquare2{
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    margin: auto;
+    border-radius: 50%;
+}
+.rounded3{
+    margin-top: 10px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: green;
+    padding: 10px;
+}
+.dotsquare3{
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    margin: auto;
+    border-radius: 50%;
+}
+.rounded4{
+    margin-top: 10px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: lightskyblue;
+    padding: 10px;
+}
+.dotsquare4{
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    margin: auto;
+    border-radius: 50%;
+}
+.rounded5{
+    margin-top: 10px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: orange;
+    padding: 10px;
+}
+.dotsquare5{
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    margin: auto;
+    border-radius: 50%;
+}
+.squares ul li{
+    list-style: none;
+    float: left;
+}
+.squares2 ul li{
+    list-style: none;
+    float: left;
+}
+.News{ 
+    margin: auto;
+    width: 50%;
+}
+.News h3{ 
+    margin: auto;
+    width: 50%;
+}
+.Countries{
+    margin: auto;
+    margin-top: 100px;
+    width: 50%;
+}
+.Countries h3{ 
+    margin: auto;
+    width: 50%;
+}
+.tickets{
+    height: 200px;
+    width: 250px;
+    background-color: white;
+    margin: 50%;
+}
+.tickets img{
+    width: 250px;
+    height: 100px;
+}
+.newstickets ul li{
+    list-style: none;
+    float: left;
+}
+.join{
+    margin-left: 45%;
+    margin-right: 45%;
+    border-radius: 15%;
+    padding: 10px 10px 10px 10px;
+    position: relative;
+    background-color: rgb(76, 76, 248);
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.qapply button{
+    border-radius: 15%;
+    padding: 10px 10px 10px 10px;
+    position: relative;
+    background-color: rgb(76, 76, 248);
+    color: white;
+    font-weight: bold;
+    border: none;
+    float: right;
+}
+.qapply h2{
+    float: left;
+}
+footer ul{
+    float: left;
+}
+footer li{
+    list-style: none;
+}
